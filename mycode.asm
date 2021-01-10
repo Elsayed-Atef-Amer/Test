@@ -1,5 +1,4 @@
-   .MODEL SMALL
- .STACK 100H
+
 .code
 
 
